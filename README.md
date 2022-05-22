@@ -4,7 +4,7 @@
     alt="ntabucejo"
   />
 </p>
-<p align="left" style="display: inline-flex; flex-wrap: wrap;">
+<p align="left">
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/5516f233fcf83f43314843e2480f5b88a69e27d0/assets/icons/reactjs-icon.svg"
