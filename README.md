@@ -7,70 +7,70 @@
 <p align="left" style="display: inline-flex; flex-wrap: wrap; gap: 12px;">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/reactjs-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/5516f233fcf83f43314843e2480f5b88a69e27d0/assets/icons/reactjs-icon.svg"
     alt="reactjs"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/nextjs-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/nextjs-icon.svg"
     alt="nextjs"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/tailwindcss-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/tailwindcss-icon.svg"
     alt="tailwindcss"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/zustand-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/zustand-icon.svg"
     alt="zustand"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/prisma-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/prisma-icon.svg"
     alt="prisma"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/typescript-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/typescript-icon.svg"
     alt="typescript"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/javascript-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/javascript-icon.svg"
     alt="javascript"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/html5-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/html5-icon.svg"
     alt="html5"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/css3-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/css3-icon.svg"
     alt="css3"
     height="30"
     width="30"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/sass-icon.svg"
+    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/sass-icon.svg"
     alt="sass"
     height="30"
     width="30"
