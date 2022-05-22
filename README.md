@@ -9,60 +9,70 @@
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/5516f233fcf83f43314843e2480f5b88a69e27d0/assets/icons/reactjs-icon.svg"
     alt="reactjs"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/nextjs-icon.svg"
     alt="nextjs"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/tailwindcss-icon.svg"
     alt="tailwindcss"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/zustand-icon.svg"
     alt="zustand"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/prisma-icon.svg"
     alt="prisma"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/typescript-icon.svg"
     alt="typescript"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/javascript-icon.svg"
     alt="javascript"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/html5-icon.svg"
     alt="html5"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/css3-icon.svg"
     alt="css3"
-    width="40"
+    height="40"
+    width="35"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/sass-icon.svg"
     alt="sass"
-    width="40"
+    height="40"
+    width="35"
   />
 </p>
