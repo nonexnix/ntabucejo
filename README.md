@@ -1,6 +1,6 @@
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=ntabucejo&label=Profile%20views&color=0e50b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=ntabucejo&label=Profile%20views&color=0e30b6&style=flat"
     alt="ntabucejo"
   />
 </p>
@@ -9,70 +9,70 @@
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/reactjs-icon.svg"
     alt="reactjs"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/nextjs-icon.svg"
     alt="nextjs"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/tailwindcss-icon.svg"
     alt="tailwindcss"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/zustand-icon.svg"
     alt="zustand"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/prisma-icon.svg"
     alt="prisma"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/typescript-icon.svg"
     alt="typescript"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/javascript-icon.svg"
     alt="javascript"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/html5-icon.svg"
     alt="html5"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/css3-icon.svg"
     alt="css3"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
   <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/sass-icon.svg"
     alt="sass"
-    height="50"
-    width="50"
+    height="30"
+    width="30"
   />
 </p>
