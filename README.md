@@ -4,15 +4,15 @@
     alt="ntabucejo"
   />
 </p>
-<p align="left" style="display: flex; gap: 10px;">
-   <img
+<p align="left" style="display: inline-flex; flex-wrap: wrap; gap: 12px;">
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/reactjs-icon.svg"
     alt="reactjs"
     height="50"
     width="50"
   />
-   <img
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/nextjs-icon.svg"
     alt="nextjs"
@@ -33,7 +33,7 @@
     height="50"
     width="50"
   />
-   <img
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/prisma-icon.svg"
     alt="prisma"
@@ -47,7 +47,7 @@
     height="50"
     width="50"
   />
-   <img
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/javascript-icon.svg"
     alt="javascript"
@@ -61,14 +61,14 @@
     height="50"
     width="50"
   />
-   <img
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/css3-icon.svg"
     alt="css3"
     height="50"
     width="50"
   />
-   <img
+  <img
     align="center"
     src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e766e8cfd9d2203dd71382404336ebf16d422cd2/assets/icons/sass-icon.svg"
     alt="sass"
