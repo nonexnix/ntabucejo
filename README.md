@@ -76,3 +76,6 @@
     width="35"
   />
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntabucejo&show_icons=true&theme=tokyonight)
+
