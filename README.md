@@ -1,10 +1,13 @@
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=ntabucejo&label=Profile%20views&color=0e30b6&style=flat"
     alt="ntabucejo"
   />
 </p>
-<p align="left">
+
+<h1 align="center">Welccome to my Space</h1>
+
+<p align="center">
   <img
     align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/reactjs-icon.png?raw=true"
@@ -98,6 +101,6 @@
   />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntabucejo&show_icons=true&theme=tokyonight)
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ntabucejo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntabucejo&show_icons=true&theme=tokyonight) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ntabucejo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
