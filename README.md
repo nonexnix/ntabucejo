@@ -7,76 +7,90 @@
 <p align="left">
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/5516f233fcf83f43314843e2480f5b88a69e27d0/assets/icons/reactjs-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/reactjs-icon.png?raw=true"
     alt="reactjs"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/nextjs-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/nextjs-icon.png?raw=true"
     alt="nextjs"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/tailwindcss-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/tailwindcss-icon.png?raw=true"
     alt="tailwindcss"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/zustand-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/zustand-icon.png?raw=true"
     alt="zustand"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/prisma-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/prisma-icon.png?raw=true"
     alt="prisma"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/typescript-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/typescript-icon.png?raw=true"
     alt="typescript"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/javascript-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/javascript-icon.png?raw=true"
     alt="javascript"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/html5-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/html5-icon.png?raw=true"
     alt="html5"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/b4756485dcf9c2a885dff70ad3886ec3096af833/assets/icons/css3-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/css3-icon.png?raw=true"
     alt="css3"
     height="40"
-    width="35"
+    width="40"
   />
   <img
     align="center"
-    src="https://raw.githubusercontent.com/ntabucejo/ntabucejo/e71224c8f22b63bf473bf769a604d621368e238e/assets/icons/sass-icon.svg"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/sass-icon.png?raw=true"
     alt="sass"
     height="40"
-    width="35"
+    width="40"
+  />
+  <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/swr-icon.png?raw=true"
+    alt="swr"
+    height="40"
+    width="40"
+  />
+  <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/planetscale-icon.png?raw=true"
+    alt="planetscale"
+    height="40"
+    width="40"
   />
 </p>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntabucejo&show_icons=true&theme=tokyonight) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ntabucejo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntabucejo&show_icons=true&theme=tokyonight)
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ntabucejo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
