@@ -59,6 +59,13 @@
   />
   <img
     align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/expressjs-icon.png?raw=true"
+    alt="expressjs"
+    height="40"
+    width="40"
+  />
+  <img
+    align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/html5-icon.png?raw=true"
     alt="html5"
     height="40"
@@ -75,6 +82,13 @@
     align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/sass-icon.png?raw=true"
     alt="sass"
+    height="40"
+    width="40"
+  />
+  <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/nodejs-icon.png?raw=true"
+    alt="nodejs"
     height="40"
     width="40"
   />
