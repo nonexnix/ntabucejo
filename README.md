@@ -82,6 +82,13 @@
     height="40"
     width="40"
   />
+   <img
+    align="center"
+    src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/vitejs-icon.png?raw=true"
+    alt="vitejs"
+    height="40"
+    width="40"
+  />
   <img
     align="center"
     src="https://github.com/ntabucejo/ntabucejo/blob/main/icons/planetscale-icon.png?raw=true"
