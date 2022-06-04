@@ -6,6 +6,7 @@
 </p>
 
 <h1 align="center">Welccome to my Hub!</h1>
+<p align="center">PROJECTS : SOLVING : LEARNING<p/>
 
 <p align="center">
   <img
